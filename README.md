@@ -11,8 +11,8 @@ The process that I have done for this project are as following:
 - Use Hyperparameter tuning to find the optimal models
 
 #### Content of this repository
-- zillow_data.csv : this is the house sale dataset from Zillow. The data source of this project.
-- Project3.ipynb : this is the main technical Jupyter notebook that perform all data science process of this project.
+- datasets : this is the song datasets from EchoNest
+- Project4.ipynb : this is the main technical Jupyter notebook that perform all data science process of this project.
 - Presentation.pdf : this is the executive presentation that provide the final conclusion of this project
 
 THANK YOU!
